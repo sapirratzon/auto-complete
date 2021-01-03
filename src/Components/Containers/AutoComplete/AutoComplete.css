@@ -1,0 +1,5 @@
+.autoComplete.open {
+    -webkit-transform: scaleY(1);
+    transform: scaleY(1);
+    opacity: 1;
+}
